@@ -1,0 +1,11 @@
+Model,Accuracy,F-Score
+Extreme Gradient,0.92,0.61
+Light GBM,0.92,0.60
+Random Forest,0.89,0.41
+Gradient Boosting,0.89,0.41
+Decision Tree,0.81,0.37
+SGD,0.81,0.24
+ANN,0.81,0.24
+Naive Bayes,0.87,0.00
+SVM,0.87,0.00
+Logistic Regression,0.87,0.00
